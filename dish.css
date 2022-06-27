@@ -1,0 +1,61 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+}
+
+.dish {
+  width: 192px;
+  background: #1f1d2b;
+  border-radius: 16px;
+  padding-bottom: 24px;
+  margin-right: 24px;
+  margin-top: 74px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dish:last-child {
+  margin-right: 0;
+}
+
+.row img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: -30px;
+}
+
+.dish-title {
+  margin-bottom: 8px;
+}
+
+.dish-title,
+.dish-price,
+.dishes-available {
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+}
+
+.dish-price,
+.dishes-available {
+  font-weight: 400;
+}
+
+.dish-price {
+  margin-bottom: 4px;
+}
+
+.dishes-available {
+  color: #abbbc2;
+}
+
+.dish .add-to-cart {
+  text-align: center;
+  margin-top: 10px;
+  background: #EA7C69;
+  border: 1px solid #393C49;
+  padding: 5px;
+}

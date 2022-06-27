@@ -1,0 +1,10 @@
+aside {
+  background-color: #1f1d2b;
+  height: 100vh;
+  width: 104px;
+}
+
+aside .item {
+  padding-top: 5px;
+  cursor: pointer;
+}

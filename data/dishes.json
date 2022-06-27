@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "./assets/noodles.png",
+    "title": "Spicy seasoned seafood noodles",
+    "price": 2.29,
+    "dishesAvailable": 18
+  },
+  {
+    "id": 2,
+    "image": "./assets/noodles.png",
+    "title": "Spicy seasoned seafood noodles",
+    "price": 3,
+    "dishesAvailable": 20
+  },
+  {
+    "id": 3,
+    "image": "./assets/noodles.png",
+    "title": "Chicken curry",
+    "price": 4,
+    "dishesAvailable": 12
+  },
+  {
+    "id": 4,
+    "image": "./assets/noodles.png",
+    "title": "Spicy seasoned seafood noodles",
+    "price": 7.5,
+    "dishesAvailable": 10
+  },
+  {
+    "id": 5,
+    "image": "./assets/noodles.png",
+    "title": "Spicy seasoned seafood noodles",
+    "price": 3.5,
+    "dishesAvailable": 5
+  },
+  {
+    "id": 6,
+    "image": "./assets/noodles.png",
+    "title": "Spicy seasoned seafood noodles",
+    "price": 1.2,
+    "dishesAvailable": 3
+  }
+]

@@ -1,0 +1,53 @@
+.order {
+  width: 620px;
+  height: 100vh;
+  background: #1f1d2b;
+  padding: 24px;
+  color: #ffffff;
+}
+
+.order h2 {
+  font-size: 1.25rem;
+  color: #ffffff;
+}
+
+.order-list {
+  width: 100%;
+  margin-top: 24px;
+}
+
+.order-list th#item {
+  text-align: left;
+}
+
+.order-list th#qty {
+  text-align: center;
+}
+
+.order-list th#price {
+  text-align: right;
+}
+
+.order-list tbody {
+  margin-top: 50px;
+}
+
+.order-list img {
+  width: 45px;
+  /* display: inline; */
+}
+
+.d-details span {
+  display: block;
+}
+
+.order-list #qty-input {
+  width: 45px;
+  background: #393C49;
+  border: 1px solid #393C49;
+  padding: 14px 14px 12px;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 1rem;
+  text-align: center;
+}
